@@ -1,4 +1,4 @@
-# fruits-emoji-interpreter-react
+# Fruits Emoji Interpreter
 This is fruits emoji interpreter app. Made in React js. <br>
 [Link to the app](https://mn5td.csb.app/ "Emoji interpreter")
 
